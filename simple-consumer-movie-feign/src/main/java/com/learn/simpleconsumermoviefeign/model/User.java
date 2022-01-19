@@ -1,4 +1,4 @@
-package com.example.simpleconsumermoviefeign.model;
+package com.learn.simpleconsumermoviefeign.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

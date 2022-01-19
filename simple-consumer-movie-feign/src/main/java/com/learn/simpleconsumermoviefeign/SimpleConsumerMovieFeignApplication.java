@@ -1,4 +1,4 @@
-package com.example.simpleconsumermoviefeign;
+package com.learn.simpleconsumermoviefeign;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
