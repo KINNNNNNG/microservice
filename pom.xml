@@ -11,6 +11,8 @@
 
     <modules>
         <module>simple-provider-user</module>
+        <module>eureka-server</module>
+        <module>simple-consumer-movie</module>
     </modules>
 
     <properties>
