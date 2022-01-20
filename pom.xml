@@ -13,6 +13,9 @@
         <module>simple-provider-user</module>
         <module>eureka-server</module>
         <module>simple-consumer-movie</module>
+        <module>simple-consumer-movie-feign</module>
+        <module>simple-consumer-movie-ribbon</module>
+        <module>eureka-server-ha</module>
     </modules>
 
     <properties>
